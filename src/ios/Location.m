@@ -6,7 +6,7 @@
 //
 //
 
-#import "BaiduLocation4Cordova.h"
+#import "Location.h"
 //#import "CLLocationManager+Extension.h"
 @implementation Location
 
