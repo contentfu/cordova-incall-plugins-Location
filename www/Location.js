@@ -1,4 +1,4 @@
-cordova.define("cordova-incall-plugins-Location", function(require, exports, module) {    var exec = require('cordova/exec');
+   var exec = require('cordova/exec');
    module.exports = {
        startLocation: function (success, error, options) {
            options = options || {};
@@ -8,5 +8,3 @@ cordova.define("cordova-incall-plugins-Location", function(require, exports, mod
            exec(success, error, "Location", "startLocation", args);
        }
    };
-
-});
