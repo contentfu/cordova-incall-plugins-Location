@@ -35,7 +35,7 @@
 
     <!-- ios -->
     <platform name="ios">
-        <js-module src="www/appinfo.js" name="Location">
+        <js-module src="www/Location.js" name="Location">
             <clobbers target="window.baiduLocation" />
         </js-module>
         <config-file target="config.xml" parent="/*">
