@@ -1,0 +1,33 @@
+{
+  "name": "cordova-incall-plugins-Location",
+  "version": "1.0.0",
+  "description": "Cordova Location Plugin",
+  "cordova": {
+    "id": "cordova-incall-plugins-Location",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentfu/cordova-incall-plugins-Location.git"
+  },
+  "keywords": [
+    "cordova",
+    "AppInfo",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Rusted",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/contentfu/cordova-incall-plugins-Location/issues"
+  },
+  "homepage": "https://github.com/contentfu/cordova-incall-plugins-Location#readme"
+}
